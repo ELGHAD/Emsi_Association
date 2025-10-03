@@ -58,7 +58,6 @@ Elrhadiouini Hamza
 
 Naami Mohamed
 
-Encadré par M. El Hassani Mouhcine
 
 📚 Références
 
