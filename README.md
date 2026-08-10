@@ -37,7 +37,7 @@ Le projet s'adresse principalement aux **étudiants** souhaitant s'impliquer dan
   <img src="public/dashboard.jfif" alt="Tableau de bord d'ADMIN" width="45%" />
   <img src="public/dashboaard.jfif" alt="Tableau de bord d'ETUDIANT" width="45%" />
   <img src="public/users.jfif" alt="Users Page" width="45%" />
-  <img src="public/evenements.jfif" alt="Gestion des clubs" width="45%" />
+  <img src="public/evenements.jfif" alt="Gestion des evenements" width="45%" />
 </p>
 
 
