@@ -1,4 +1,4 @@
-# 🎓 EMSI Association — Plateforme de Gestion de la Vie Associative
+# EMSI Association — Plateforme de Gestion de la Vie Associative
 
 > Une application web moderne centralisant la gestion des clubs, événements et actualités étudiantes de l'EMSI Rabat, avec une interface sécurisée et responsive pour étudiants et administrateurs.
 
@@ -22,7 +22,7 @@ Le projet s'adresse principalement aux **étudiants** souhaitant s'impliquer dan
 
 ---
 
-## 🖼️ Aperçu visuel
+## Aperçu visuel
 
 <!--
   Ajoute tes captures d'écran dans un dossier docs/screenshots/ à la racine du projet,
@@ -43,18 +43,18 @@ Le projet s'adresse principalement aux **étudiants** souhaitant s'impliquer dan
 
 ---
 
-## 🚀 Fonctionnalités clés
+##  Fonctionnalités clés
 
-- 👤 **Gestion des utilisateurs** — inscription, connexion et gestion des rôles (étudiant, administrateur)
-- 🎭 **Clubs étudiants** — création de clubs, adhésion des membres, gestion des effectifs
-- 📅 **Événements** — organisation d'événements, inscription et suivi des participations
-- 📰 **Actualités** — publication et consultation d'articles liés à la vie associative
-- 🔐 **Sécurité** — authentification via **Laravel Sanctum** et gestion fine des permissions par rôle
-- 📊 **Tableaux de bord** — interfaces dédiées et différenciées pour les étudiants et les administrateurs
+-  **Gestion des utilisateurs** — inscription, connexion et gestion des rôles (étudiant, administrateur)
+-  **Clubs étudiants** — création de clubs, adhésion des membres, gestion des effectifs
+-  **Événements** — organisation d'événements, inscription et suivi des participations
+-  **Actualités** — publication et consultation d'articles liés à la vie associative
+-  **Sécurité** — authentification via **Laravel Sanctum** et gestion fine des permissions par rôle
+-  **Tableaux de bord** — interfaces dédiées et différenciées pour les étudiants et les administrateurs
 
 ---
 
-## 🏗️ Architecture & Stack technique
+##  Architecture & Stack technique
 
 Le projet suit l'architecture **MVC (Modèle-Vue-Contrôleur)** native de Laravel, avec un couplage frontend/backend via des vues **Blade** enrichies en JavaScript, et une conception préalable modélisée en **UML** (StarUML).
 
@@ -70,7 +70,7 @@ Le projet suit l'architecture **MVC (Modèle-Vue-Contrôleur)** native de Larave
 
 ---
 
-## ⚙️ Guide d'installation & Démarrage rapide
+##  Guide d'installation & Démarrage rapide
 
 ### Prérequis
 
@@ -117,7 +117,7 @@ L'application est accessible à l'adresse : **http://localhost:8000**
 
 ---
 
-## 📂 Structure du projet (simplifiée)
+##  Structure du projet (simplifiée)
 
 ```
 Emsi_Association/
@@ -137,7 +137,7 @@ Emsi_Association/
 
 ---
 
-## 🔒 Sécurité & bonnes pratiques
+##  Sécurité & bonnes pratiques
 
 - **Authentification sécurisée** via Laravel Sanctum
 - **Gestion des rôles et permissions** pour distinguer les accès étudiants / administrateurs
@@ -147,7 +147,7 @@ Emsi_Association/
 
 ---
 
-## 📚 Références
+##  Références
 
 - [Documentation Laravel](https://laravel.com/docs)
 - [Documentation Tailwind CSS](https://tailwindcss.com/docs)
@@ -156,4 +156,4 @@ Emsi_Association/
 
 ---
 
-<p align="center">⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile !</p>
+<p align="center"> N'hésitez pas à mettre une étoile si ce projet vous a été utile !</p>
