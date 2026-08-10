@@ -30,14 +30,14 @@ Le projet s'adresse principalement aux **étudiants** souhaitant s'impliquer dan
   Exemple : docs/screenshots/dashboard.png
 -->
 <p align="center">
-  <img src="docs/screenshots/home.jfif" alt="Home page" width="45%" />
-  <img src="docs/screenshots/login.jfif" alt="Page de connexion" width="45%" />
+  <img src="public/home.jfif" alt="Home page" width="45%" />
+  <img src="public/login.jfif" alt="Page de connexion" width="45%" />
 </p>
 <p align="center">
-  <img src="docs/screenshots/dashboard.jfif" alt="Tableau de bord d'ADMIN" width="45%" />
-  <img src="docs/screenshots/dashboaard.jfif" alt="Tableau de bord d'ETUDIANT" width="45%" />
-  <img src="docs/screenshots/users.jfif" alt="Users Page" width="45%" />
-  <img src="docs/screenshots/evenements.jfif" alt="Gestion des clubs" width="45%" />
+  <img src="public/dashboard.jfif" alt="Tableau de bord d'ADMIN" width="45%" />
+  <img src="public/dashboaard.jfif" alt="Tableau de bord d'ETUDIANT" width="45%" />
+  <img src="public/users.jfif" alt="Users Page" width="45%" />
+  <img src="public/evenements.jfif" alt="Gestion des clubs" width="45%" />
 </p>
 
 
