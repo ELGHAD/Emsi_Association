@@ -29,15 +29,17 @@ Le projet s'adresse principalement aux **étudiants** souhaitant s'impliquer dan
   puis remplace les chemins ci-dessous par les noms de tes fichiers.
   Exemple : docs/screenshots/dashboard.png
 -->
+<p align="center">
+  <img src="docs/screenshots/home.jfif" alt="Home page" width="45%" />
+  <img src="docs/screenshots/login.jfif" alt="Page de connexion" width="45%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/dashboard.jfif" alt="Tableau de bord d'ADMIN" width="45%" />
+  <img src="docs/screenshots/dashboaard.jfif" alt="Tableau de bord d'ETUDIANT" width="45%" />
+  <img src="docs/screenshots/users.jfif" alt="Users Page" width="45%" />
+  <img src="docs/screenshots/evenements.jfif" alt="Gestion des clubs" width="45%" />
+</p>
 
-<p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Tableau de bord" width="45%" />
-  <img src="docs/screenshots/clubs.png" alt="Gestion des clubs" width="45%" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/events.png" alt="Gestion des événements" width="45%" />
-  <img src="docs/screenshots/login.png" alt="Page de connexion" width="45%" />
-</p>
 
 ---
 
